@@ -1,5 +1,18 @@
 // Assignment code here
+var upperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+var lowerCase = "abcdefghijklmnopqrstuvwxyz";
+var number = "1234567890";
+var specialCharacter = "~!@#$%^&*()_+=";
 
+
+  function userChoice() {
+// Prompts user to input number and confirm. Log to console to verify input is stored.
+var characterLength = parseInt(prompt("Enter a number between 8 and 128"));
+
+
+    
+
+  }
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
