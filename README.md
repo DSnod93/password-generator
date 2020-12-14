@@ -13,9 +13,7 @@ This application generates a random password based on what the user selects from
 ## Final Product : https://DSnod93.github.io/password-generator/
 <br>
 
-<<<<<<< HEAD
 <img src="img/snippet.jpg">
-=======
-<img src="img\snippet.jpg">
->>>>>>> ff7884dbeb3793b7ed01504373f9c119c1c41fb5
+
+
 
