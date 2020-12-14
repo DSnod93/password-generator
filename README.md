@@ -10,8 +10,8 @@ This application generates a random password based on what the user selects from
 * Numbers
 * Special characters
 
-## Final Product : https://dsnod93.github.io/password-generator/
+## Final Product : https://DSnod93.github.io/password-generator/
 <br>
 
-<img src="develop/img/snippet.jpg">
+<img src="develop\img\snippet.jpg">
 
